@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three-TierArchitecture", "Three-TierArchitecture\Three-TierArchitecture.csproj", "{B4EBC50A-0B3A-4983-8291-E14126DAAA66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three-TierArchitectureLogin", "Three-TierArchitecture\Three-TierArchitectureLogin.csproj", "{B4EBC50A-0B3A-4983-8291-E14126DAAA66}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{A722C711-E12F-4405-AA79-A91B55E41D34}"
 EndProject
